@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ic_size">45dp</dimen>
+    <dimen name="foto_perfil">48sp</dimen>
+    <dimen name="borde_chat">5sp</dimen>
+    <dimen name="foto_perfil_cv">24sp</dimen>
+    <dimen name="cv_margen">10sp</dimen>
+</resources>

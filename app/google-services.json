@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "450040118124",
+    "firebase_url": "https://chat-8852b.firebaseio.com",
+    "project_id": "chat-8852b",
+    "storage_bucket": "chat-8852b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450040118124:android:416a7adf4cf034b3361149",
+        "android_client_info": {
+          "package_name": "com.correadevelopment.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450040118124-r8nod6ie7g7kdlqcc1oqogjoq4vnoa5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfmocCK6_HtRjJjD1ZCQNQPphWbjysXno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450040118124-r8nod6ie7g7kdlqcc1oqogjoq4vnoa5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
